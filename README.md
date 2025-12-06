@@ -159,13 +159,6 @@ B,18
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 👨‍💻 Author
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-
----
 
 *This project demonstrates fundamental data analysis skills using Python's most popular data science libraries. Perfect for portfolios and learning data manipulation techniques!*
 
